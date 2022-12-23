@@ -1,3 +1,4 @@
+# Program to print GCD by given inputs
 # GCD stands for Greatest Common Divisor
 num1 = int(input("Enter Your First Number : "))
 num2 = int(input("Enter Your second Number : "))
